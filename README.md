@@ -1,3 +1,13 @@
+# 环境配置
+## 第一步：node.js配置
+参考方法：https://www.bilibili.com/video/BV19F411t7zX/?spm_id_from=333.788.recommend_more_video.0&vd_source=4f52d6cc8aeb5dd22f0c395a9d7e932d    
+镜像地址：npm config set registry https://registry.npmmirror.com    
+## 第二步：下载webstorm
+下载地址：https://www.jetbrains.com.cn/webstorm/
+## 第三步：在webstorm打开
+用webstorm打开文件夹，然后终端分别输入    
+npm install      
+npm run dev        
 # 更新记录
 ## 版本0.1.1
 更新人：梁楚烁<br>
@@ -17,3 +27,5 @@ bolt地址：https://bolt.new/github.com/duanqinyu/gangweishijian/tree/main/proj
 更新内容：<br>
 文件地址：<br>
 bolt地址：<br>
+111   
+333   
