@@ -5,9 +5,11 @@
 ## 第二步：下载webstorm
 下载地址：https://www.jetbrains.com.cn/webstorm/
 ## 第三步：在webstorm打开
-用webstorm打开文件夹，然后终端分别输入    
+用webstorm打开文件夹，然后终端分别输入：    
 npm install      
-npm run dev        
+npm run dev    
+即可运行成功。       
+
 # 更新记录
 ## 版本0.1.1
 更新人：梁楚烁<br>
