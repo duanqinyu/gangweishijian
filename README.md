@@ -9,6 +9,7 @@ bolt地址：https://bolt.new/github.com/duanqinyu/gangweishijian/tree/main/proj
 更新人：段沁宇<br>
 更新内容：将英文转为中文，并且加入了学生页面的加人和筛选功能，在仪表盘加入了四个方框点击跳转的功能。<br>
 文件地址：https://github.com/duanqinyu/gangweishijian/tree/main/project0.1.2<br>
+文件下载：https://github.com/duanqinyu/gangweishijian/releases/download/0.1.2/project-bolt-github-l1jozg.1.zip     
 bolt地址：https://bolt.new/github.com/duanqinyu/gangweishijian/tree/main/project0.1.2<br>
 
 
