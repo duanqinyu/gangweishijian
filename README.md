@@ -17,7 +17,7 @@ bolt地址：https://bolt.new/github.com/duanqinyu/gangweishijian/tree/main/proj
 更新人：段沁宇<br>
 更新内容：完善了学生页面的增删查改的所有功能。<br>
 文件地址：https://github.com/duanqinyu/gangweishijian/tree/main/project0.1.3<br>
-文件下载： 
+文件下载：https://github.com/duanqinyu/gangweishijian/releases/download/0.1.3/project-bolt-github-juhbd5-wp5zkn.zip      
 bolt地址：https://bolt.new/github.com/duanqinyu/gangweishijian/tree/main/project0.1.3<br>
 
 ## 版本0.1.4
